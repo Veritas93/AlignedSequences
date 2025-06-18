@@ -49,6 +49,7 @@ export const AlignmentSequenceAA = () => {
               fontSize: "14px",
               fontWeight: "600",
               marginBottom: "1rem",
+              
               "@media screen and (min-width: 320px)": {
                 fontSize: "calc(14px + 10 * (100vw - 320px) / 1080)",
               },
